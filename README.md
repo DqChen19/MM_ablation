@@ -1,3 +1,8 @@
-The model and data for this manuscript are available as open materials:
-Danqiu Chen, David C. Catling, Roger Buick, Donald Brownlee, Jaden Unruh (2026). Identifying Fossilized Precambrian Iron-type Cosmic Spherules in Carbonate Rocks: Challenges and Opportunities.
-Please find the data in the PureN2_ folder for results plotted in the manuscript.
+# Data and Model Availability
+
+The model outputs and supporting data associated with the manuscript:
+
+> Chen, D., Catling, D. C., Buick, R., Brownlee, D., & Unruh, J. (2026).  
+> *Identifying Fossilized Precambrian Iron-type Cosmic Spherules in Carbonate Rocks: Challenges and Opportunities.*
+
+are provided as open materials in this repository.
