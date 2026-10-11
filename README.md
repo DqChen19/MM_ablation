@@ -18,4 +18,16 @@ Simulations were conducted under a 1-bar, pure N₂ atmosphere to isolate the ef
 
 The results show that higher entry velocities generally lead to greater atmospheric heating and more extensive ablation, resulting in smaller average final particle diameters.
 
-![Figure 1. Monte Carlo simulations of iron-type cosmic spherule entry under a 1-bar, pure N₂ atmosphere. Initial particle sizes, entry angles, and velocities were randomly sampled across different prescribed velocity ranges. Crosses (×) indicate the mean final particle diameter for each velocity range.](co2_ablation_comparison.pdf)
+<p align="center">
+  <img src="./co2_ablation_comparison.pdf" width="500">
+</p>
+
+<p align="center">
+  <em>
+    Figure 1. Monte Carlo simulations of iron-type cosmic sphere
+    entry under a 1-bar pure N₂ atmosphere. Initial particle sizes,
+    entry angles, and velocities were randomly sampled across
+    different velocity ranges. Crosses (×) indicate the mean
+    final particle diameter.
+  </em>
+</p>
