@@ -19,7 +19,7 @@ Simulations were conducted under a 1-bar, pure N₂ atmosphere to isolate the ef
 The results show that higher entry velocities generally lead to greater atmospheric heating and more extensive ablation, resulting in smaller average final particle diameters.
 
 <p align="center">
-  <img src="co2_ablation_comparison.pdf" width="500">
+  <img src="co2_ablation_comparison.png" width="500">
 </p>
 
 <p align="center">
