@@ -8,6 +8,8 @@ This repository contains the model outputs and supporting data associated with t
 
 The formal citation and DOI will be updated once the manuscript is published online.
 
+The supporting data can be found in Figshare: <https://doi.org/10.6084/m9.figshare.34962562>
+
 ## Main Results
 
 ### Effects of Entry Velocity on Cosmic Spherule Size
